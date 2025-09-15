@@ -1,5 +1,5 @@
 {
-  "name": "silinternational/zxcvbn-api-client-php",
+  "name": "sil-org/zxcvbn-api-client-php",
   "type": "library",
   "description": "PHP client library for interacting with Zxcvbn API. See https://github.com/wcjr/zxcvbn-api",
   "keywords": ["zxcvbn"],
